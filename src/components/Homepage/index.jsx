@@ -14,7 +14,7 @@ const Homepage = () => {
                     <div className="col">
                         <img src="./images/Photo.jpg" alt="" className="first-img" />
                         <div className="first-text">
-                            <h1>Let Your Home <br />Be Uniqe </h1>
+                            <h1>Let Your Jevin <br />Be Uniqe </h1>
                             <p>There are many variations of the passages of lorem Ipsum <br /> fromavailable,variations of the passages.</p>
                             <button className="btn bg-dark text-light "><Link className="text-decoration-none text-light" to="Plans">Get Started<ArrowForwardIcon className="arrow" /></Link></button>
                         </div>
